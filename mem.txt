@@ -1,0 +1,11 @@
+Please ensure app.out file location is correct: .app.outputeagleimageeagle.app.v6.out
+   Section|                   Description| Start (hex)|   End (hex)|Used space
+------------------------------------------------------------------------------
+      data|        Initialized Data (RAM)|    3FFE8000|    3FFE8780|    1920
+    rodata|           ReadOnly Data (RAM)|    3FFE8780|    3FFE8E38|    1720
+       bss|      Uninitialized Data (RAM)|    3FFE8E38|    3FFF1160|   33576
+      text|            Cached Code (IRAM)|    40100000|    4010777E|   30590
+irom0_text|           Uncached Code (SPI)|    40240000|    402699EC|  170476
+Total Used RAM : 37216
+Free RAM : 44704
+Free IRam : 2196
